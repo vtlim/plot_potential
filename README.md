@@ -14,8 +14,9 @@ Includes energy terms for:
 * the Morse potential.
 
 Code and images are free to modify or use with citation of this work.  
+The plotting code is all in **`plot_potential.py`**.  
 **Author:** Victoria T. Lim  
 **Source:** `https://github.com/vtlim/plot_potential`
 
-Example output ([ref](https://cmm.cit.nih.gov/intro_simulation/node15.html)):  
+Example output made with this code (based on [ref](https://cmm.cit.nih.gov/intro_simulation/node15.html)):  
 ![](together.png)
