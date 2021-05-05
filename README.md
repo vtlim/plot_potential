@@ -13,9 +13,9 @@ Includes energy terms for:
 * electrostatics (Coulomb), and
 * the Morse potential.
 
-Code and images are free to use with citation of this work.  
+Code and images are free to modify or use with citation of this work.  
 **Author:** Victoria T. Lim  
 **Source:** `https://github.com/vtlim/plot_potential`
 
-Example output ([ref](https://cmm.cit.nih.gov/intro_simulation/node15.html)):
+Example output ([ref](https://cmm.cit.nih.gov/intro_simulation/node15.html)):  
 ![](together.png)
